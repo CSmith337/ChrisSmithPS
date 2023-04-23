@@ -1,5 +1,4 @@
 <!doctype html>
-<!-- Fill In Your Website Language -->
 <html class="no-js" lang="en">
 
 <head>
@@ -11,9 +10,6 @@
 <og:image>https://media.licdn.com/dms/image/D5635AQEADY_R8ImCJQ/profile-framedphoto-shrink_200_200/0/1680541604637?e=1682874000&v=beta&t=VzRUR2X27yLqN3HpnwgIeF5uE7SprbsKVIo1PZA4_LI</og:image>
  <og:url>https://www.linkedin.com/in/christophersmithcareer/</og:url>
 
- <!--   <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png"> -->
-  <!-- Place favicon.ico in the root directory -->
 
   <link rel="stylesheet" href="/styles.css">
 
